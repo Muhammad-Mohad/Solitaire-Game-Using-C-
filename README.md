@@ -17,3 +17,5 @@ Just run the main.cpp and then move cards using the following commands:
 -> undo is by command "z"
 
 -> exit the game by "exit" command
+
+(a very little error handling is done so yeah play it carefully and do not use undo more than once after a single move lol)

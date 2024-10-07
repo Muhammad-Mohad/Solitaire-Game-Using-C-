@@ -1,3 +1,7 @@
+A simple console based solitaire game
+
+Just run the main.cpp and then move cards using the following commands:
+
 -> move number of cards from one column to another by command like "m c1 c2 3"
 
 -> move a single card from stockpile to wastepile with command "s"
